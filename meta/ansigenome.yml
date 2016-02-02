@@ -1,0 +1,13 @@
+---
+
+ansigenome_info:
+  github_url: "https://github.com/alysoid/ansible-ssmtp"
+  git_branch: "master"
+
+  authors:
+    - name: 'Andrea Brandi'
+      url: 'http://andreabrandi.com'
+
+  synopsis: |
+    This role installs and manages [ssmtp](https://packages.qa.debian.org/s/ssmtp.html),
+    an extremely simple MTA to get mail off the system to a mail hub.
